@@ -1,4 +1,4 @@
-program som konsumerar ett web-api. Programmet ska lista användare, när man väljer en användare ska programmet hämta all information om den specifika användaren och presentera det. Api server kräver att en api key skickas med i headers med namnet x-api-key.
+Program som konsumerar ett web-api. Programmet ska lista användare, när man väljer en användare ska programmet hämta all information om den specifika användaren och presentera det. Api server kräver att en api key skickas med i headers med namnet x-api-key.
 
 Hur programmet visar resultaten är upp till dig (kan vara en console application eller websida)
 
